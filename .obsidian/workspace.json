@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 280.5
   },
   "right": {
     "id": "36379a79947b7d76",
@@ -183,7 +183,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "75f24460dcc36f16",
+  "active": "6dbfecc5bf927884",
   "lastOpenFiles": [
     "skills/skill.md",
     "skills",

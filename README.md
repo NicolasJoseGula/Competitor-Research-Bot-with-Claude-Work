@@ -1,5 +1,7 @@
 # Competitor Research Bot with Claude Cowork
 
+![image](./images/logo.png)
+
 An automation project built on top of **Claude Cowork** that generates professional, client-ready competitor profiles for companies in the streaming services market. It's designed for media consulting teams that need concise, consistent strategic analysis backed by verifiable sources.
 
 ---
